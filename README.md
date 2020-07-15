@@ -1,5 +1,9 @@
 # I have deployed the website in Netlify. You can access it [here](https://helloworld.raywonkari.com/).
 
+## This repo is used as an example project as part of my blog posts available here:
+- https://raywontalks.com/getting-started-with-gatsbyjs-part1/
+- https://raywontalks.com/getting-started-with-gatsbyjs-part2/
+
 ### Below is the default README we get as part of the hello world GatsbyJS Starter, which has very good information.
 
 <hr/>
